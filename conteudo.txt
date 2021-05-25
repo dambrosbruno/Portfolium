@@ -1,0 +1,46 @@
+Trybe curso:
+
+Git e Github
+	Controle de versão
+	Branch e merge
+	Autenticação local e remota
+	SSH e HTTPS
+	Criar conta no github
+	Adicionar chave SSH
+	git init
+	git push
+	git clone
+	git log
+	git request
+	git remove
+	git ignore
+	git pull
+	git fetch
+	pull request
+	
+Internet: como ela funciona
+	Protocolo Http
+	Http Head
+	Http body
+	Métodos Http
+		Get
+		post
+		put
+		delete
+		rest
+		curl
+
+Introdução a Html e Css
+	Tags
+	Links externos e internos
+	Propriedaddes de texto no Css
+	CSS inline e externo
+	MOdelo de caixas no Css
+	Posicionamento de elementos no Css
+	Agrupamento de seletores e pseudoclasses
+	COmbinação de classes e descendentes
+	Elementos de bloco e elementos inline
+	Display: iline-block
+	Code sniffer
+	Lighthouse
+	
